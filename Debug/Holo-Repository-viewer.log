@@ -1,0 +1,4 @@
+﻿  Holo-Repository-viewer.vcxproj -> D:\Documents\GitHub\Holo-Repository-viewer\HoloJS\Debug\Holo-Repository-viewer\HoloRepository Viewer.exe
+D:\Programs\Visual Studio\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets(2492,5): warning APPX0104: Certificate file 'ThreeJSApp-Vs2017_TemporaryKey.pfx' not found.
+D:\Programs\Visual Studio\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets(2492,5): warning APPX0102: A certificate with thumbprint '15C92DF6CB454FAD9A94146E5B070CFEC80BA131' that is specified in the project cannot be found in the certificate store. Please specify a valid thumbprint in the project file.
+D:\Programs\Visual Studio\MSBuild\Microsoft\VisualStudio\v15.0\AppxPackage\Microsoft.AppXPackage.Targets(2492,5): warning APPX0107: The certificate specified is not valid for signing. For more information about valid certificates, see http://go.microsoft.com/fwlink/?LinkID=241478.

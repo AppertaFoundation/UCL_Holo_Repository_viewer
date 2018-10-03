@@ -1,0 +1,12 @@
+{
+  "scripts": [
+    "three.js",
+    "three-patches.js",
+    "HolographicCamera.js",
+    "https://threejs.org/examples/js/loaders/FBXLoader.js",
+    "https://threejs.org/examples/js/libs/inflate.min.js",
+    "OrbitControls.js",
+    "program.js",
+    "app.js"
+  ]
+}

@@ -1,0 +1,2 @@
+D:\Documents\GitHub\Holo-Repository-viewer\HoloJS\HoloJsHost\HoloJsHost-Vs2017.vcxproj;x86
+D:\Documents\GitHub\Holo-Repository-viewer\HoloJS\Holo-Repository-viewer\Holo-Repository-viewer.vcxproj;x86
